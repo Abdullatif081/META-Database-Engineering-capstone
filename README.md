@@ -7,10 +7,10 @@ The project is divided into several distinct tasks, each focusing on a specific 
 
 ### 1) Data Modeling
 
-Creating an Entity-Relationship (ER) Diagram
-Generating the Database Schema
-Populating the Relations with Data
-Adding Sales Report
+- Creating an Entity-Relationship (ER) Diagram
+- Generating the Database Schema
+- Populating the Relations with Data
+- Adding Sales Report
 
 Implementing Joins
 Creating Views
